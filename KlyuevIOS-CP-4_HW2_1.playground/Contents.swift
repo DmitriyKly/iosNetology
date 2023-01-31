@@ -79,3 +79,5 @@ func resultTime01(Begin first: String, last: String) -> Int {
     return [ostNum01[first], ostNum01[last]].compactMap{$0}.sorted().reduce(0, {$1 - $0})
 }
 resultTime(Begin: "ost3", last: "ost1")
+
+// Здесь типо скрипт Google Analytics
