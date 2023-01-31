@@ -80,6 +80,10 @@ func resultTime01(Begin first: String, last: String) -> Int {
 }
 resultTime(Begin: "ost3", last: "ost1")
 
+<<<<<<< HEAD
 
 
 // Типо здесь код ЯндексМетрика
+=======
+// Здесь типо скрипт Google Analytics
+>>>>>>> feature/analytics
